@@ -95,16 +95,7 @@ Phase:
 AirLiquidPlace:
     cancelvl: 0
 
-FabricatedPlace:
-    cancelvl: 5
-
 FarPlace:
-    cancelvl: 5
-
-PositionPlace:
-    cancelvl: 5
-
-RotationPlace:
     cancelvl: 5
 
 # 予測に基づく「NoSlow」チェック

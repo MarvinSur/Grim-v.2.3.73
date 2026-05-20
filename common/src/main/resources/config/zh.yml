@@ -104,16 +104,7 @@ Phase:
 AirLiquidPlace:
     cancelvl: 0
 
-FabricatedPlace:
-    cancelvl: 5
-
 FarPlace:
-    cancelvl: 5
-
-PositionPlace:
-    cancelvl: 5
-
-RotationPlace:
     cancelvl: 5
 
 # 使用模拟移动进行的NoSlow(使用物品时不会减速)检查

@@ -87,20 +87,8 @@ AirLiquidPlace:
     # Livello di violazione per il piazzamento in aria o liquido
     cancelvl: 0
 
-FabricatedPlace:
-    # Livello di violazione per il piazzamento di un blocco fabbricato
-    cancelvl: 5
-
 FarPlace:
     # Livello di violazione per il piazzamento in un punto lontano
-    cancelvl: 5
-
-PositionPlace:
-    # Livello di violazione per il piazzamento in una posizione specifica
-    cancelvl: 5
-
-RotationPlace:
-    # Livello di violazione per il piazzamento con rotazione specifica
     cancelvl: 5
 
 NoSlow:
